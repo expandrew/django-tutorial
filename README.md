@@ -8,6 +8,8 @@ Just going through the [Django tutorial](https://docs.djangoproject.com/en/1.8/i
 - Install Django (with PyPI): `% pip install django`
 - New Project: `% django-admin startproject mysite`
 - Start server: `% python manage.py runserver`
+- Start shell: `% python manage.py shell`
+- Run tests: `% python manage.py test polls` (replace `polls` with application name)
 
 
 ## Links
